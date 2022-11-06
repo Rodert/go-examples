@@ -1,2 +1,6 @@
-id,c1,c2,c3
-12,1,1,1
+id,name,age,class,position
+1,tom,18,3,beijing
+2,jetty,19,,nanjing
+3,jack,17,3,tianjin
+4,jack2,17,,
+5,JavaPub,89,,nm
