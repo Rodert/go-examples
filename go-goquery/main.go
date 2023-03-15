@@ -217,6 +217,6 @@ func SeleniumTest() {
 
 func main() {
 	// BaiduHotSearch()
-	// CoinmarketcapInfo()
+	CoinmarketcapInfo()
 	SeleniumTest()
 }
